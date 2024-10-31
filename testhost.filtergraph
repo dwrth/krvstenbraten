@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FILTERGRAPH>
+  <FILTER uid="3" x="0.83" y="0.930327868852459" useARA="0">
+    <PLUGIN name="Audio Output" descriptiveName="" format="Internal" category="I/O devices"
+            manufacturer="JUCE" version="1.0" file="" uniqueId="724248cb"
+            isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
+            numOutputs="0" isShell="0" hasARAExtension="0" uid="724248cb"/>
+    <STATE>0.</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="disabled"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="5" x="0.15375" y="0.09426229508196721" useARA="0" uiLastX_Normal="1067"
+          uiLastY_Normal="86" uiopen_Normal="1">
+    <PLUGIN name="AUAudioFilePlayer" format="AudioUnit" category="Generator"
+            manufacturer="Apple" version="1.6.0" file="AudioUnit:Generators/augn,afpl,appl"
+            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="192e108ab82"
+            numInputs="0" numOutputs="2" isShell="0" hasARAExtension="0"
+            uid="6163676e"/>
+    <STATE>1026.hAGaoMGcv.C1AHv.DTfAGfPBJr.IkXxIpvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPhxfFR2fCO.AVFkFak4TXsU1URU1Yo8lay8ED.+RUyUlby8BYgYWZjcWYxQGZuvTZhIWXxk2KAAGbrk1XgQWZu4FHSUGbv8lbz8hPoQ2coc1KBkFc2k1YfLEc0QVZu8RZtMGcgwFakQVKvE1XqE1YkM2K03BLuLjboMGcoElafX0amUFauLjboMGcoElafX0amUFafHTZzcWZmABSgI1KL81cxUVdf7jbigVYyQmbgwFHH8FaoQVX48BSucmbkkGHCg1axQ1bfLEcgI1bfLEaoMVYf.iYfLjUtbWX1EZDTKwDTTgEWXQFdIUYmk1atQzakMGSu8FbZIUYmk1atQTXzE1WP.QRyMUYrU1XzUFYRU1Yo8laZIUYmk1at4TXsUVBOAAb...........Poxu...F...................13FED..........P1bkHCLSQWXhMWIx.yTrkV.....v.iYk......................................fmCcP..........ftnG.......jfVNU1cfHUYmk1atMcCNrAGcXgWIM2TkwVYiQWYjYTZrU1WPT5KUMWYxM2KjElcoQ1ckIGcn8BSoIlbgIWduDDbvwVZiEFco8lafLUcvA2axQ2KBkFc2k1YuHTZzcWZmAxTzUGYo81Ko41bzEFarUFYs.WXisVXmU1buTiKv7xPxk1bzkVXtAhUucVYr8xPxk1bzkVXtAhUucVYrAhPoQ2cocFHLElXuvzauA2buDSL3.hSkYWYxUjamklakABUTARLw.xPV4xcgYWndPsDSPQEV.hEhjvSP.G...........59iA..fA..................fMtQAA..........x.iSkYWYxUjamklakUhLvD.....LwDSI......................................34PGD..........bu7J...bAcPInkSkcGHRU1Yo8laIHQXlAGaP.fDgU2YtIMJo7.GVYTZrUFHwXkQowVYfHCVU4FcoQGakQF.H.PF.XB.q.PR.DE.YAfW..G.0Afd.rG.9Avf.vH.TFvUAjU.hEPbAvW.OFflAro.NHvCBng.gH.LBfs.ZKv3BP9.WM.VCL1.jMPZCr1.vMPcCv2.CB.......HP..........rB..................L.i</STATE>
+    <LAYOUT>
+      <INPUTS/>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="6" x="0.485" y="0.4795081967213115" useARA="0" uiLastX_Normal="1025"
+          uiLastY_Normal="465" uiopen_Normal="1">
+    <PLUGIN name="krvstenbraten" format="VST3" category="Fx" manufacturer="David Werth"
+            version="1.0.0" file="/Users/davidwerth/Library/Audio/Plug-Ins/VST3/juce-intro.vst3"
+            uniqueId="36de01b" isInstrument="0" fileTime="192e1055654" infoUpdateTime="192e108ab83"
+            numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
+            uid="acfc1c8c"/>
+    <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <CONNECTION srcFilter="5" srcChannel="0" dstFilter="6" dstChannel="0"/>
+  <CONNECTION srcFilter="5" srcChannel="1" dstFilter="6" dstChannel="1"/>
+  <CONNECTION srcFilter="6" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="6" srcChannel="1" dstFilter="3" dstChannel="1"/>
+</FILTERGRAPH>
