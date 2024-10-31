@@ -29,7 +29,7 @@ KrvstenBratenAudioProcessorEditor::KrvstenBratenAudioProcessorEditor (KrvstenBra
     crumble.setTextBoxStyle(juce::Slider::TextBoxBelow, false, 190, 25);
     crumble.setTextValueSuffix(" kg krvstenbraten");
     crumble.setRange(0.f, 50.f, 0.01);
-    crumble.setValue(50);
+    crumble.setValue(25);
     crumble.addListener(this);
     addAndMakeVisible(&crumble);
 

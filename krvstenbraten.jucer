@@ -6,8 +6,8 @@
   <MAINGROUP id="j9Wojl" name="krvstenbraten">
     <GROUP id="{8BA40546-CC95-C594-9573-34B6BA54F963}" name="Source">
       <GROUP id="{028C731A-5653-D34C-F44F-2827294181F9}" name="Assets">
-        <FILE id="ixCggh" name="8449135.png" compile="0" resource="1" file="../../../../Pictures/8449135.png"/>
-        <FILE id="MDiVKi" name="kruste.png" compile="0" resource="1" file="../../../../Pictures/kruste.png"/>
+        <FILE id="roWiKe" name="8449135.png" compile="0" resource="1" file="Source/Assets/8449135.png"/>
+        <FILE id="ctRXZa" name="kruste.png" compile="0" resource="1" file="Source/Assets/kruste.png"/>
       </GROUP>
       <FILE id="X4Rpi1" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
